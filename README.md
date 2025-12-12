@@ -48,7 +48,7 @@ Ce projet présente un dashboard interactif d’analyse des ventes de pizzas, co
 - Palette de couleurs adaptée au thème pizzeria (rouge, vert, jaune, beige, etc.).
 - Textes d’insights synthétiques intégrés sous les graphiques.
 
-## Résultats clés (exemples)
+## Résultats clés
 
 - La catégorie **Classic** contribue au maximum des ventes et des commandes.
 - Les pizzas de taille **Large** génèrent la plus grande part du chiffre d’affaires.
