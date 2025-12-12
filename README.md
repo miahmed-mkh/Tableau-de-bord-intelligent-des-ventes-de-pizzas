@@ -1,3 +1,9 @@
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-4B5563?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-22C55E?style=for-the-badge&logo=file&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 # Analyse des ventes de pizzas avec SQL & Power BI
 
 Ce projet présente un dashboard interactif d’analyse des ventes de pizzas, construit à partir d’un dataset réel-like comprenant environ 48 000 lignes de commandes sur une année. L’objectif est d’aider un restaurant à comprendre ses performances commerciales, les habitudes d’achat de ses clients et à identifier les meilleures et pires pizzas.
@@ -20,8 +26,8 @@ Ce projet présente un dashboard interactif d’analyse des ventes de pizzas, co
 
 - **Base de données** : MS SQL Server
 - **Langage requêtes** : SQL
-- **BI & DataViz** : Power BI Desktop
-- **Source de données** : fichier CSV de ventes de pizzas (2015)
+- **BI & DataViz** : Power BI Desktop ( Dashbord.pdf)
+- **Source de données** : fichier CSV de ventes de pizzas ( pizza_sales.csv )
 
 ## Étapes principales
 
