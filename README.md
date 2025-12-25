@@ -4,7 +4,7 @@
 ![CSV](https://img.shields.io/badge/CSV-22C55E?style=for-the-badge&logo=file&logoColor=white)
 ![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# Analyse des ventes de pizzas avec SQL & Power BI
+# Analyse avancée des ventes de pizzas – Conception d’un tableau de bord décisionnel avec SQL & Power BI
 
 Ce projet présente un dashboard interactif d’analyse des ventes de pizzas, construit à partir d’un dataset réel-like comprenant environ 48 000 lignes de commandes sur une année. L’objectif est d’aider un restaurant à comprendre ses performances commerciales, les habitudes d’achat de ses clients et à identifier les meilleures et pires pizzas.
 
