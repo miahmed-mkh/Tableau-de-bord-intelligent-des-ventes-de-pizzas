@@ -30,8 +30,9 @@
 - Peak orders on weekends (Fri/Sat evenings)
 - Best/worst sellers identified for marketing decisions
 
-**Ahmed MAKHLOUFI** – Data Analyst / BI Developer Junior  
-[LinkedIn](https://linkedin.com/in/ahmed-makhroufi) | [Data Tutorials](https://www.youtube.com/@datatutorials1) | [Dataset](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z)
+**Ahmed MAKHLOUFI** – [LinkedIn](https://linkedin.com/in/ahmed-makhroufi) 
+
+**Inspired by**: [Data Tutorials](https://www.youtube.com/@datatutorials1) | [Dataset (https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z)
 </details>
 
 <details>
@@ -60,6 +61,7 @@
 - Les commandes sont les plus élevées le week-end, surtout les soirs de vendredi et samedi.
 - Identification des pizzas best-sellers et underperformers pour guider les décisions marketing.
 
-**Ahmed MAKHLOUFI** – Data Analyst / BI Developer Junior  
-[LinkedIn](https://linkedin.com/in/ahmed-makhroufi) | [Data Tutorials](https://www.youtube.com/@datatutorials1) | [Dataset](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z)
+**Ahmed MAKHLOUFI** – [LinkedIn](https://linkedin.com/in/ahmed-makhroufi)
+
+**Inspiré par** : [Data Tutorials](https://www.youtube.com/@datatutorials1) | [Dataset](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z)
 </details>
