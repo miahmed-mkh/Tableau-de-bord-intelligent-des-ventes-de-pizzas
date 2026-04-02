@@ -6,7 +6,7 @@
 
 <details open>
 <summary>🇺🇸 English Version</summary>
-  
+
 # Pizza Sales Analysis – SQL & Power BI Dashboard
 
 ## Main Steps
@@ -30,14 +30,13 @@
 - Peak orders on weekends (Fri/Sat evenings)
 - Best/worst sellers identified for marketing decisions
 
-**Ahmed MAKHLOUFI** – Data Analyst / BI Developer Junior • [LinkedIn](https://linkedin.com/in/ahmed-makhroufi)
+**Ahmed MAKHLOUFI** – Data Analyst / BI Developer Junior  
+[LinkedIn](https://linkedin.com/in/ahmed-makhroufi) | [Data Tutorials](https://www.youtube.com/@datatutorials1) | [Dataset](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z)
+</details>
 
-**Inspired by**: [Data Tutorials](https://www.youtube.com/@datatutorials1) • [Dataset source](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z)
+<details>
+<summary>🇫🇷 Version Française</summary>
 
-
-<details open>
-<summary> 🇫🇷 French Version</summary>
-  
 # Analyse des ventes de pizzas – Dashboard SQL & Power BI
 
 ## Étapes principales
@@ -57,10 +56,10 @@
 
 ## Résultats clés
 - La catégorie **Classic** contribue au maximum des ventes et des commandes.
-- Les pizzas de taille **Large** génèrent la plus grande part du chiffre d’affaires.
+- Les pizzas de taille **Large** génèrent la plus grande part du chiffre d'affaires.
 - Les commandes sont les plus élevées le week-end, surtout les soirs de vendredi et samedi.
-- Identification des pizzas best-sellers et underperformers pour guider les décisions marketing (promotions, retrait de produits, etc.).
+- Identification des pizzas best-sellers et underperformers pour guider les décisions marketing.
 
-**Ahmed MAKHLOUFI** – • [LinkedIn](https://linkedin.com/in/ahmed-makhroufi)
-
-**Projet inspiré de** : [Data Tutorials](https://www.youtube.com/@datatutorials1) • [Dataset source](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z)
+**Ahmed MAKHLOUFI** – Data Analyst / BI Developer Junior  
+[LinkedIn](https://linkedin.com/in/ahmed-makhroufi) | [Data Tutorials](https://www.youtube.com/@datatutorials1) | [Dataset](https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z)
+</details>
